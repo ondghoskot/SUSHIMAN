@@ -1,0 +1,19 @@
+# Arduino/PlatformIO
+*.hex
+*.elf
+*.bin
+build/
+.pio/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credentials
+secrets.h
+config_private.h
